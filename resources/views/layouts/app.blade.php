@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Book Reviews</title>
+    <title>Book Sage</title>
     <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio"></script>
 
     {{-- blade-formatter-disable --}}
